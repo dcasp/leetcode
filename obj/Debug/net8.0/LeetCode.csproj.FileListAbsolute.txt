@@ -1,0 +1,14 @@
+/home/drew/Development/dotnet/LeetCode/bin/Debug/net8.0/LeetCode
+/home/drew/Development/dotnet/LeetCode/bin/Debug/net8.0/LeetCode.deps.json
+/home/drew/Development/dotnet/LeetCode/bin/Debug/net8.0/LeetCode.runtimeconfig.json
+/home/drew/Development/dotnet/LeetCode/bin/Debug/net8.0/LeetCode.dll
+/home/drew/Development/dotnet/LeetCode/bin/Debug/net8.0/LeetCode.pdb
+/home/drew/Development/dotnet/LeetCode/obj/Debug/net8.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/drew/Development/dotnet/LeetCode/obj/Debug/net8.0/LeetCode.AssemblyInfoInputs.cache
+/home/drew/Development/dotnet/LeetCode/obj/Debug/net8.0/LeetCode.AssemblyInfo.cs
+/home/drew/Development/dotnet/LeetCode/obj/Debug/net8.0/LeetCode.csproj.CoreCompileInputs.cache
+/home/drew/Development/dotnet/LeetCode/obj/Debug/net8.0/LeetCode.dll
+/home/drew/Development/dotnet/LeetCode/obj/Debug/net8.0/refint/LeetCode.dll
+/home/drew/Development/dotnet/LeetCode/obj/Debug/net8.0/LeetCode.pdb
+/home/drew/Development/dotnet/LeetCode/obj/Debug/net8.0/LeetCode.genruntimeconfig.cache
+/home/drew/Development/dotnet/LeetCode/obj/Debug/net8.0/ref/LeetCode.dll
